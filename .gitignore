@@ -1,0 +1,14 @@
+.env
+node_modules/
+.DS_Store
+.vscode
+*.log
+data/
+uploads/
+
+# Frontend build artifacts
+/dist
+/build
+
+# IDE files
+.idea/
