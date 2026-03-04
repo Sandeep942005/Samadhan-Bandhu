@@ -717,7 +717,7 @@ For issues, questions, or suggestions:
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name/Team]
+- **Project Lead**: Anubhab Mishra
 - **Email**: support@samadhan.gov.in
 - **GitHub Issues**: [Project Repository]
 
