@@ -192,5 +192,29 @@ Open your browser and navigate to: **http://localhost:5173**
 ## 📁 Project Structure
 
 ```
-SamadhanBandhu_PS-25153/
+SamadhanBandhu/
+├── SamadhanBandhu_Backend/
+│   ├── data/
+│   ├── scripts/
+│   ├── src/
+│   │   ├── database/
+│   │   ├── middleware/
+│   │   ├── routes/
+│   │   └── utils/
+│   ├── .env.example
+│   ├── .gitignore
+│   ├── package.json
+│   └── server.js
+└── SamadhanBandhu_Frontend/
+    ├── public/
+    │   ├── assets/
+    │   └── index.html
+    ├── src/
+    │   ├── features/
+    │   ├── routes/
+    │   ├── shared/
+    │   └── main.jsx
+    ├── .gitignore
+    ├── package.json
+    └── vite.config.js
 ```
